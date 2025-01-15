@@ -6,3 +6,5 @@ pandas
 ipykernel
 matplotlib
 streamlit
+keras
+scikeras
